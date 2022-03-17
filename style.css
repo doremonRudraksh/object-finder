@@ -23,11 +23,7 @@ body{
     font-size: larger;
     color: red;
 }
-canvas{
-    border-radius: 10px;
-    background-color: red;
-    box-shadow: 7px 7px 7px white;
-}
+
 p{
     margin-bottom: 0px;
     font-size: small;
